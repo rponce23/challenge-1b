@@ -11,6 +11,8 @@ N/A
 
 I put Issues of each request to accomplished the Acceptance criteria.
 
-## Credits
+## Link
+https://rponce23.github.io/challenge-1b/
 
-N/A
+## Screenshot
+image.png
